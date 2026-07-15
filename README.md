@@ -4,6 +4,7 @@ An end-to-end data science project that analyzes historical retail sales, foreca
 
 This project was developed as the **Final Project of the Xylofy Data Science Internship Program**.
 
+Live Link - https://salesforecastingproject-pyxkurjbscxkwpvmfcaxwh.streamlit.app/
 ---
 
 ## 📌 Project Overview
